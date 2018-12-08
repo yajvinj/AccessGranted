@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Finger Flow</string>
+    <string name="category_multiple_choice">Multiple Choice</string>
+    <string name="category_morse_code">Morse Code</string>
+    <string name="category_game">Game</string>
+    <string name="category_multipurpose">Multipurpose</string>
+</resources>
